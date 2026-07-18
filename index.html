@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>K&amp;M — Ruins</title>
+<title>K&amp;M</title>
 <link rel="stylesheet" href="colors_and_type.css" />
 <link rel="stylesheet" href="site.css" />
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
@@ -61,7 +61,7 @@ function Home() {
           <div style={{ margin: '24px 0 18px' }}><Sep /></div>
           <p className="meta">
             {W.dayName}, {W.dateLong}
-            <span className="venue">{W.venue} &middot; New Lebanon, New York</span>
+            <span className="venue">{W.venue} &middot; Pittsfield, MA</span>
           </p>
           <Countdown />
           <div style={{ display: 'flex', gap: 14, justifyContent: 'center', marginTop: 36, flexWrap: 'wrap' }}>
@@ -76,9 +76,9 @@ function Home() {
         <div className="narrow reveal">
           <p className="editorial-label">We're getting married</p>
           <h2 className="section-title" style={{ marginTop: 18 }}>
-            Join us at the ruins of a Shaker chair factory in upstate New York.
+            Join us at a Shaker museum and working farm in Western MA.
           </h2>
-          <p className="lede" style={{ marginTop: 24 }}>Mountains and meadows, a pond, fire pits, and the standing timber frame of a place that's been making and remaking itself for two hundred years. Come for the wedding; stay for as much of the weekend as you'd like.</p>
+          <p className="lede" style={{ marginTop: 24 }}>Come for the wedding; stay for as much of the weekend as you'd like.</p>
         </div>
       </section>
 
@@ -89,7 +89,7 @@ function Home() {
             <div className="reveal"><FeatureCard
                 icon="calendar-heart" kicker="Schedule"
                 title="Make your own adventure"
-                body="Friday hangs, the Saturday wedding and reception, and an easy Sunday brunch. Pick and choose what you can make."
+                body="Friday hangs, the Saturday wedding and reception, and an easy Sunday brunch (or goat yoga). Pick and choose what you can make."
                 href="the-weekend.html" cta="See the schedule" /></div>
             <div className="reveal d1"><FeatureCard
                 icon="map" kicker="Travel & stay"
@@ -98,8 +98,8 @@ function Home() {
                 href="travel-and-stay.html" cta="Plan your trip" /></div>
             <div className="reveal d2"><FeatureCard
                 icon="trees" kicker="The venue"
-                title="Learn about The Ruins"
-                body="A historic Shaker chair-factory, restored as a space for celebrations honoring those who shared the space before."
+                title="Learn about Hancock Shaker Village"
+                body="A museum and working farm with a 200-year-old round stone barn."
                 href="the-weekend.html#venue" cta="About the venue" /></div>
           </div>
         </div>
@@ -115,7 +115,7 @@ function Home() {
             <div className="reveal d1">
               <div className="callout">
                 <h3>Come comfortable</h3>
-                <p>We have no dress code for any events in mind — we'll celebrate you being comfortable. Late May in New Lebanon can swing from hot in the afternoon sun to quite chilly once the sun drops. Check the forecast close to the weekend and pack a layer or two so you're comfortable in any weather.</p>
+                <p>We have no dress code for any events in mind — we'll celebrate you being comfortable. Late May in Western, MA can swing from hot in the afternoon to quite chilly once the sun drops. Check the forecast close to the weekend and pack a layer or two so you're comfortable in any weather.</p>
               </div>
             </div>
           </div>
@@ -125,11 +125,7 @@ function Home() {
       {/* ---- DUSK FOOTER ---- */}
       <DuskFooter>
         <p className="eyebrow">A small ask</p>
-        <h2>Let us help you get here — or let us house you.</h2>
-        <p className="lede" style={{ color: '#dcccdf', margin: '22px auto 0' }}>
-          Need a hand arranging a ride or a free place to stay? Want to pitch in on something for the
-          weekend? Reach out — anyone helping out, we'll happily put up.
-        </p>
+        <h2>We hope to see you there.</h2>
         <div style={{ display: 'flex', gap: 14, justifyContent: 'center', marginTop: 32, flexWrap: 'wrap' }}>
           <a className="btn btn-on-deep" href={W.rsvpUrl} target="_blank" rel="noopener noreferrer">RSVP</a>
           <a className="btn btn-ghost-deep" href={'mailto:' + W.contactEmail}>Get in touch</a>
