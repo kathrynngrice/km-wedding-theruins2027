@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Where to stay — Kathryn &amp; Matt's Wedding</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --sage-50:#f4f6f0; --sage-600:#5a6b49; --sage-700:#465538;
+    --bark-100:#f4ede0; --bark-500:#8a7a5c; --bark-700:#4a3f2c; --bark-800:#2a241a;
+    --sky-500:#5c7891; --sky-600:#3a526a;
+    --ember-500:#b5713f;
+    --line-soft: rgba(74,62,44,0.12);
+    --shadow-leaf: 0 1px 3px rgba(74,62,44,0.08), 0 1px 2px rgba(74,62,44,0.06);
+    --font-sans: 'Figtree', sans-serif;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; }
+  a { color: var(--sky-600); text-decoration: none; }
+  a:hover { color: var(--sky-500); text-decoration: underline; }
+  ::selection { background: var(--sage-100, #e6ebdc); }
+  .btn:hover { background: var(--sage-700) !important; }
+</style>
+</head>
+<body>
+
+<div style="font-family: var(--font-sans); background: var(--bark-100); color: var(--bark-800); padding: 64px 24px 88px; text-wrap: pretty;">
+  <div style="max-width: 1080px; margin: 0 auto;">
+
+    <div style="text-align: center; max-width: 640px; margin: 0 auto 12px;">
+      <p style="font-size: 13px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--sage-600); font-weight: 600; margin: 0 0 14px;">KATHRYN &amp; MATT'S WEDDING &middot; HANCOCK SHAKER VILLAGE</p>
+      <h1 style="font-size: 42px; font-weight: 300; letter-spacing: -0.02em; margin: 0 0 18px; line-height: 1.15;">Where to stay</h1>
+      <p style="font-size: 17px; line-height: 1.65; color: var(--bark-700); margin: 0;">We've rounded up a mix of places near the venue &mdash; from familiar hotel chains to a ski chalet, to a rustic wellness center. Distances below are approximate driving miles from Hancock Shaker Village. Book early. The Berkshires get busy.</p>
+    </div>
+
+    <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 32px 0 44px;">
+      <div style="display:flex; align-items:center; gap:7px; background: var(--sage-50); border: 1px solid var(--line-soft); border-radius: 999px; padding: 7px 14px; font-size: 13px; color: var(--bark-700);"><span style="width:8px; height:8px; border-radius:50%; background: var(--bark-500); display:inline-block;"></span>Airbnb</div>
+      <div style="display:flex; align-items:center; gap:7px; background: var(--sage-50); border: 1px solid var(--line-soft); border-radius: 999px; padding: 7px 14px; font-size: 13px; color: var(--bark-700);"><span style="width:8px; height:8px; border-radius:50%; background: var(--sage-600); display:inline-block;"></span>Rustic retreat center</div>
+      <div style="display:flex; align-items:center; gap:7px; background: var(--sage-50); border: 1px solid var(--line-soft); border-radius: 999px; padding: 7px 14px; font-size: 13px; color: var(--bark-700);"><span style="width:8px; height:8px; border-radius:50%; background: var(--sky-500); display:inline-block;"></span>Classic hotel</div>
+      <div style="display:flex; align-items:center; gap:7px; background: var(--sage-50); border: 1px solid var(--line-soft); border-radius: 999px; padding: 7px 14px; font-size: 13px; color: var(--bark-700);"><span style="width:8px; height:8px; border-radius:50%; background: var(--ember-500); display:inline-block;"></span>Ski chalet (quiet in summer)</div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 22px;">
+
+      <div style="background: #fffdf8; border: 1px solid var(--line-soft); border-radius: 20px; box-shadow: var(--shadow-leaf); padding: 24px; display: flex; flex-direction: column; gap: 14px;">
+        <div style="display:flex; align-items:flex-start; justify-content:space-between; gap: 10px;">
+          <div><h3 style="margin:0 0 4px; font-size: 19px; font-weight: 600; letter-spacing: -0.01em;">Airbnb — New Lebanon area</h3><p style="margin:0; font-size: 14px; color: var(--bark-500);">New Lebanon, NY &amp; nearby</p></div>
+          <span style="flex-shrink:0; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; padding: 5px 10px; border-radius: 999px; color: #fff; background: var(--bark-500);">Airbnb</span>
+        </div>
+        <div style="display:flex; gap:18px; font-size: 14px; color: var(--bark-700); border-top: 1px solid var(--line-soft); border-bottom: 1px solid var(--line-soft); padding: 12px 0;">
+          <div><strong style="color: var(--bark-800);">varies</strong><br><span style="color: var(--bark-500); font-size: 12px;">from venue</span></div>
+          <div><strong style="color: var(--bark-800);">Various listings</strong><br><span style="color: var(--bark-500); font-size: 12px;">homes</span></div>
+          <div><strong style="color: var(--bark-800);">Varies</strong><br><span style="color: var(--bark-500); font-size: 12px;">approx / night</span></div>
+        </div>
+        <p style="margin: 0; font-size: 14px; font-style: italic; font-weight: 300; color: var(--bark-700); line-height: 1.5;">Whole houses and private rooms scattered through the hills right around the venue &mdash; good if your group wants a kitchen or more space to spread out.</p>
+        <a class="btn" href="https://www.airbnb.com/s/New-Lebanon--NY/homes?place_id=ChIJKQRcMOdW54kRCbLTWHZixEE&query=New%20Lebanon%2C%20NY&search_type=user_map_move&refinement_paths%5B%5D=%2Fhomes&checkin=2027-05-28&checkout=2027-05-31&date_picker_type=calendar&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2026-08-01&monthly_length=3&monthly_end_date=2026-11-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=3&channel=EXPLORE&source=structured_search_input_header&ne_lat=42.49423681332549&ne_lng=-73.32872604659264&sw_lat=42.39255403493574&sw_lng=-73.48081915151676&zoom=12.717611602699819&zoom_level=12.717611602699819&search_by_map=true" target="_blank" rel="noopener" style="margin-top: auto; text-align:center; background: var(--sage-600); color: #fff; font-weight: 500; font-size: 14px; padding: 11px 18px; border-radius: 999px; text-decoration: none;">Browse listings &rarr;</a>
+      </div>
+
+      <div style="background: #fffdf8; border: 1px solid var(--line-soft); border-radius: 20px; box-shadow: var(--shadow-leaf); padding: 24px; display: flex; flex-direction: column; gap: 14px;">
+        <div style="display:flex; align-items:flex-start; justify-content:space-between; gap: 10px;">
+          <div><h3 style="margin:0 0 4px; font-size: 19px; font-weight: 600; letter-spacing: -0.01em;">The Abode</h3><p style="margin:0; font-size: 14px; color: var(--bark-500);">New Lebanon, NY</p></div>
+          <span style="flex-shrink:0; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; padding: 5px 10px; border-radius: 999px; color: #fff; background: var(--sage-600);">Retreat center</span>
+        </div>
+        <div style="display:flex; gap:18px; font-size: 14px; color: var(--bark-700); border-top: 1px solid var(--line-soft); border-bottom: 1px solid var(--line-soft); padding: 12px 0;">
+          <div><strong style="color: var(--bark-800);">~9.0 mi</strong><br><span style="color: var(--bark-500); font-size: 12px;">from venue</span></div>
+          <div><strong style="color: var(--bark-800);">Shared &amp; private rooms</strong><br><span style="color: var(--bark-500); font-size: 12px;"></span></div>
+          <div><strong style="color: var(--bark-800);">$100–176</strong><br><span style="color: var(--bark-500); font-size: 12px;">approx / night</span></div>
+        </div>
+        <p style="margin: 0; font-size: 14px; font-style: italic; font-weight: 300; color: var(--bark-700); line-height: 1.5;">A historic Shaker campus turned wellness retreat &mdash; simple rooms, shared meals, woods to wander. Book directly through their site below.</p>
+        <a class="btn" href="https://theabode.secure.retreat.guru/program/book-a-room/" target="_blank" rel="noopener" style="margin-top: auto; text-align:center; background: var(--sage-600); color: #fff; font-weight: 500; font-size: 14px; padding: 11px 18px; border-radius: 999px; text-decoration: none;">Book a room &rarr;</a>
+      </div>
+
+      <div style="background: #fffdf8; border: 1px solid var(--line-soft); border-radius: 20px; box-shadow: var(--shadow-leaf); padding: 24px; display: flex; flex-direction: column; gap: 14px;">
+        <div style="display:flex; align-items:flex-start; justify-content:space-between; gap: 10px;">
+          <div><h3 style="margin:0 0 4px; font-size: 19px; font-weight: 600; letter-spacing: -0.01em;">Yankee Inn</h3><p style="margin:0; font-size: 14px; color: var(--bark-500);">Pittsfield, MA</p></div>
+          <span style="flex-shrink:0; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; padding: 5px 10px; border-radius: 999px; color: #fff; background: var(--sky-500);">Hotel</span>
+        </div>
+        <div style="display:flex; gap:18px; font-size: 14px; color: var(--bark-700); border-top: 1px solid var(--line-soft); border-bottom: 1px solid var(--line-soft); padding: 12px 0;">
+          <div><strong style="color: var(--bark-800);">~5.4 mi</strong><br><span style="color: var(--bark-500); font-size: 12px;">from venue</span></div>
+          <div><strong style="color: var(--bark-800);">40</strong><br><span style="color: var(--bark-500); font-size: 12px;"></span></div>
+          <div><strong style="color: var(--bark-800);">$110–150</strong><br><span style="color: var(--bark-500); font-size: 12px;">approx / night</span></div>
+        </div>
+        <a class="btn" href="https://www.google.com/search?q=Yankee+Inn+Pittsfield+MA+booking" target="_blank" rel="noopener" style="margin-top: auto; text-align:center; background: var(--sage-600); color: #fff; font-weight: 500; font-size: 14px; padding: 11px 18px; border-radius: 999px; text-decoration: none;">Find &amp; book &rarr;</a>
+      </div>
+
+      <div style="background: #fffdf8; border: 1px solid var(--line-soft); border-radius: 20px; box-shadow: var(--shadow-leaf); padding: 24px; display: flex; flex-direction: column; gap: 14px;">
+        <div style="display:flex; align-items:flex-start; justify-content:space-between; gap: 10px;">
+          <div><h3 style="margin:0 0 4px; font-size: 19px; font-weight: 600; letter-spacing: -0.01em;">Best Western Plus</h3><p style="margin:0; font-size: 14px; color: var(--bark-500);">Pittsfield, MA</p></div>
+          <span style="flex-shrink:0; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; padding: 5px 10px; border-radius: 999px; color: #fff; background: var(--sky-500);">Hotel</span>
+        </div>
+        <div style="display:flex; gap:18px; font-size: 14px; color: var(--bark-700); border-top: 1px solid var(--line-soft); border-bottom: 1px solid var(--line-soft); padding: 12px 0;">
+          <div><strong style="color: var(--bark-800);">~5.0 mi</strong><br><span style="color: var(--bark-500); font-size: 12px;">from venue</span></div>
+          <div><strong style="color: var(--bark-800);">59</strong><br><span style="color: var(--bark-500); font-size: 12px;"></span></div>
+          <div><strong style="color: var(--bark-800);">$140–170</strong><br><span style="color: var(--bark-500); font-size: 12px;">approx / night</span></div>
+        </div>
+        <a class="btn" href="https://www.google.com/search?q=Best+Western+Plus+Pittsfield+MA+booking" target="_blank" rel="noopener" style="margin-top: auto; text-align:center; background: var(--sage-600); color: #fff; font-weight: 500; font-size: 14px; padding: 11px 18px; border-radius: 999px; text-decoration: none;">Find &amp; book &rarr;</a>
+      </div>
+
+      <div style="background: #fffdf8; border: 1px solid var(--line-soft); border-radius: 20px; box-shadow: var(--shadow-leaf); padding: 24px; display: flex; flex-direction: column; gap: 14px;">
+        <div style="display:flex; align-items:flex-start; justify-content:space-between; gap: 10px;">
+          <div><h3 style="margin:0 0 4px; font-size: 19px; font-weight: 600; letter-spacing: -0.01em;">Holiday Inn</h3><p style="margin:0; font-size: 14px; color: var(--bark-500);">Pittsfield, MA</p></div>
+          <span style="flex-shrink:0; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; padding: 5px 10px; border-radius: 999px; color: #fff; background: var(--sky-500);">Hotel</span>
+        </div>
+        <div style="display:flex; gap:18px; font-size: 14px; color: var(--bark-700); border-top: 1px solid var(--line-soft); border-bottom: 1px solid var(--line-soft); padding: 12px 0;">
+          <div><strong style="color: var(--bark-800);">~6.3 mi</strong><br><span style="color: var(--bark-500); font-size: 12px;">from venue</span></div>
+          <div><strong style="color: var(--bark-800);">179</strong><br><span style="color: var(--bark-500); font-size: 12px;"></span></div>
+          <div><strong style="color: var(--bark-800);">$150–190</strong><br><span style="color: var(--bark-500); font-size: 12px;">approx / night</span></div>
+        </div>
+        <a class="btn" href="https://www.google.com/search?q=Holiday+Inn+Pittsfield+MA+booking" target="_blank" rel="noopener" style="margin-top: auto; text-align:center; background: var(--sage-600); color: #fff; font-weight: 500; font-size: 14px; padding: 11px 18px; border-radius: 999px; text-decoration: none;">Find &amp; book &rarr;</a>
+      </div>
+
+      <div style="background: #fffdf8; border: 1px solid var(--line-soft); border-radius: 20px; box-shadow: var(--shadow-leaf); padding: 24px; display: flex; flex-direction: column; gap: 14px;">
+        <div style="display:flex; align-items:flex-start; justify-content:space-between; gap: 10px;">
+          <div><h3 style="margin:0 0 4px; font-size: 19px; font-weight: 600; letter-spacing: -0.01em;">Jiminy Peak Mountain Resort</h3><p style="margin:0; font-size: 14px; color: var(--bark-500);">Hancock, MA</p></div>
+          <span style="flex-shrink:0; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; padding: 5px 10px; border-radius: 999px; color: #fff; background: var(--ember-500);">Ski chalet</span>
+        </div>
+        <div style="display:flex; gap:18px; font-size: 14px; color: var(--bark-700); border-top: 1px solid var(--line-soft); border-bottom: 1px solid var(--line-soft); padding: 12px 0;">
+          <div><strong style="color: var(--bark-800);">~8.3 mi</strong><br><span style="color: var(--bark-500); font-size: 12px;">from venue</span></div>
+          <div><strong style="color: var(--bark-800);">159</strong><br><span style="color: var(--bark-500); font-size: 12px;"></span></div>
+          <div><strong style="color: var(--bark-800);">$150–250</strong><br><span style="color: var(--bark-500); font-size: 12px;">approx / night</span></div>
+        </div>
+        <p style="margin: 0; font-size: 14px; font-style: italic; font-weight: 300; color: var(--bark-700); line-height: 1.5;">Yes, a ski resort &mdash; in July it&rsquo;s just a mountain with condos, a pool, and a lot of quiet.</p>
+        <a class="btn" href="https://www.jiminypeak.com" target="_blank" rel="noopener" style="margin-top: auto; text-align:center; background: var(--sage-600); color: #fff; font-weight: 500; font-size: 14px; padding: 11px 18px; border-radius: 999px; text-decoration: none;">Visit site &rarr;</a>
+      </div>
+
+      <div style="background: #fffdf8; border: 1px solid var(--line-soft); border-radius: 20px; box-shadow: var(--shadow-leaf); padding: 24px; display: flex; flex-direction: column; gap: 14px;">
+        <div style="display:flex; align-items:flex-start; justify-content:space-between; gap: 10px;">
+          <div><h3 style="margin:0 0 4px; font-size: 19px; font-weight: 600; letter-spacing: -0.01em;">Hampton Inn &amp; Suites</h3><p style="margin:0; font-size: 14px; color: var(--bark-500);">Lenox, MA</p></div>
+          <span style="flex-shrink:0; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; padding: 5px 10px; border-radius: 999px; color: #fff; background: var(--sky-500);">Hotel</span>
+        </div>
+        <div style="display:flex; gap:18px; font-size: 14px; color: var(--bark-700); border-top: 1px solid var(--line-soft); border-bottom: 1px solid var(--line-soft); padding: 12px 0;">
+          <div><strong style="color: var(--bark-800);">~9.5 mi</strong><br><span style="color: var(--bark-500); font-size: 12px;">from venue</span></div>
+          <div><strong style="color: var(--bark-800);">79</strong><br><span style="color: var(--bark-500); font-size: 12px;"></span></div>
+          <div><strong style="color: var(--bark-800);">$170–210</strong><br><span style="color: var(--bark-500); font-size: 12px;">approx / night</span></div>
+        </div>
+        <a class="btn" href="https://www.google.com/search?q=Hampton+Inn+%26+Suites+Lenox+MA+booking" target="_blank" rel="noopener" style="margin-top: auto; text-align:center; background: var(--sage-600); color: #fff; font-weight: 500; font-size: 14px; padding: 11px 18px; border-radius: 999px; text-decoration: none;">Find &amp; book &rarr;</a>
+      </div>
+
+      <div style="background: #fffdf8; border: 1px solid var(--line-soft); border-radius: 20px; box-shadow: var(--shadow-leaf); padding: 24px; display: flex; flex-direction: column; gap: 14px;">
+        <div style="display:flex; align-items:flex-start; justify-content:space-between; gap: 10px;">
+          <div><h3 style="margin:0 0 4px; font-size: 19px; font-weight: 600; letter-spacing: -0.01em;">Hilton Garden Inn</h3><p style="margin:0; font-size: 14px; color: var(--bark-500);">Pittsfield, MA</p></div>
+          <span style="flex-shrink:0; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; padding: 5px 10px; border-radius: 999px; color: #fff; background: var(--sky-500);">Hotel</span>
+        </div>
+        <div style="display:flex; gap:18px; font-size: 14px; color: var(--bark-700); border-top: 1px solid var(--line-soft); border-bottom: 1px solid var(--line-soft); padding: 12px 0;">
+          <div><strong style="color: var(--bark-800);">~6.5 mi</strong><br><span style="color: var(--bark-500); font-size: 12px;">from venue</span></div>
+          <div><strong style="color: var(--bark-800);">95</strong><br><span style="color: var(--bark-500); font-size: 12px;"></span></div>
+          <div><strong style="color: var(--bark-800);">$180–220</strong><br><span style="color: var(--bark-500); font-size: 12px;">approx / night</span></div>
+        </div>
+        <a class="btn" href="https://www.google.com/search?q=Hilton+Garden+Inn+Pittsfield+MA+booking" target="_blank" rel="noopener" style="margin-top: auto; text-align:center; background: var(--sage-600); color: #fff; font-weight: 500; font-size: 14px; padding: 11px 18px; border-radius: 999px; text-decoration: none;">Find &amp; book &rarr;</a>
+      </div>
+
+      <div style="background: #fffdf8; border: 1px solid var(--line-soft); border-radius: 20px; box-shadow: var(--shadow-leaf); padding: 24px; display: flex; flex-direction: column; gap: 14px;">
+        <div style="display:flex; align-items:flex-start; justify-content:space-between; gap: 10px;">
+          <div><h3 style="margin:0 0 4px; font-size: 19px; font-weight: 600; letter-spacing: -0.01em;">Courtyard by Marriott</h3><p style="margin:0; font-size: 14px; color: var(--bark-500);">Lenox, MA</p></div>
+          <span style="flex-shrink:0; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; padding: 5px 10px; border-radius: 999px; color: #fff; background: var(--sky-500);">Hotel</span>
+        </div>
+        <div style="display:flex; gap:18px; font-size: 14px; color: var(--bark-700); border-top: 1px solid var(--line-soft); border-bottom: 1px solid var(--line-soft); padding: 12px 0;">
+          <div><strong style="color: var(--bark-800);">~11.2 mi</strong><br><span style="color: var(--bark-500); font-size: 12px;">from venue</span></div>
+          <div><strong style="color: var(--bark-800);">92</strong><br><span style="color: var(--bark-500); font-size: 12px;"></span></div>
+          <div><strong style="color: var(--bark-800);">$180–230</strong><br><span style="color: var(--bark-500); font-size: 12px;">approx / night</span></div>
+        </div>
+        <a class="btn" href="https://www.google.com/search?q=Courtyard+by+Marriott+Lenox+MA+booking" target="_blank" rel="noopener" style="margin-top: auto; text-align:center; background: var(--sage-600); color: #fff; font-weight: 500; font-size: 14px; padding: 11px 18px; border-radius: 999px; text-decoration: none;">Find &amp; book &rarr;</a>
+      </div>
+
+      <div style="background: #fffdf8; border: 1px solid var(--line-soft); border-radius: 20px; box-shadow: var(--shadow-leaf); padding: 24px; display: flex; flex-direction: column; gap: 14px;">
+        <div style="display:flex; align-items:flex-start; justify-content:space-between; gap: 10px;">
+          <div><h3 style="margin:0 0 4px; font-size: 19px; font-weight: 600; letter-spacing: -0.01em;">Element Lenox</h3><p style="margin:0; font-size: 14px; color: var(--bark-500);">Lenox, MA</p></div>
+          <span style="flex-shrink:0; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; padding: 5px 10px; border-radius: 999px; color: #fff; background: var(--sky-500);">Hotel</span>
+        </div>
+        <div style="display:flex; gap:18px; font-size: 14px; color: var(--bark-700); border-top: 1px solid var(--line-soft); border-bottom: 1px solid var(--line-soft); padding: 12px 0;">
+          <div><strong style="color: var(--bark-800);">~10.8 mi</strong><br><span style="color: var(--bark-500); font-size: 12px;">from venue</span></div>
+          <div><strong style="color: var(--bark-800);">87</strong><br><span style="color: var(--bark-500); font-size: 12px;"></span></div>
+          <div><strong style="color: var(--bark-800);">$190–240</strong><br><span style="color: var(--bark-500); font-size: 12px;">approx / night</span></div>
+        </div>
+        <a class="btn" href="https://www.google.com/search?q=Element+Lenox+MA+booking" target="_blank" rel="noopener" style="margin-top: auto; text-align:center; background: var(--sage-600); color: #fff; font-weight: 500; font-size: 14px; padding: 11px 18px; border-radius: 999px; text-decoration: none;">Find &amp; book &rarr;</a>
+      </div>
+
+      <div style="background: #fffdf8; border: 1px solid var(--line-soft); border-radius: 20px; box-shadow: var(--shadow-leaf); padding: 24px; display: flex; flex-direction: column; gap: 14px;">
+        <div style="display:flex; align-items:flex-start; justify-content:space-between; gap: 10px;">
+          <div><h3 style="margin:0 0 4px; font-size: 19px; font-weight: 600; letter-spacing: -0.01em;">Hotel on North</h3><p style="margin:0; font-size: 14px; color: var(--bark-500);">Pittsfield, MA</p></div>
+          <span style="flex-shrink:0; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; padding: 5px 10px; border-radius: 999px; color: #fff; background: var(--sky-500);">Hotel</span>
+        </div>
+        <div style="display:flex; gap:18px; font-size: 14px; color: var(--bark-700); border-top: 1px solid var(--line-soft); border-bottom: 1px solid var(--line-soft); padding: 12px 0;">
+          <div><strong style="color: var(--bark-800);">~6.1 mi</strong><br><span style="color: var(--bark-500); font-size: 12px;">from venue</span></div>
+          <div><strong style="color: var(--bark-800);">45</strong><br><span style="color: var(--bark-500); font-size: 12px;"></span></div>
+          <div><strong style="color: var(--bark-800);">$220–280</strong><br><span style="color: var(--bark-500); font-size: 12px;">approx / night</span></div>
+        </div>
+        <p style="margin: 0; font-size: 14px; font-style: italic; font-weight: 300; color: var(--bark-700); line-height: 1.5;">A boutique option right in downtown Pittsfield &mdash; restaurant on site.</p>
+        <a class="btn" href="https://hotelonnorth.com" target="_blank" rel="noopener" style="margin-top: auto; text-align:center; background: var(--sage-600); color: #fff; font-weight: 500; font-size: 14px; padding: 11px 18px; border-radius: 999px; text-decoration: none;">Visit site &rarr;</a>
+      </div>
+
+    </div>
+
+    <p style="text-align:center; font-size: 13px; color: var(--bark-500); margin: 48px auto 0; max-width: 560px; line-height: 1.6;">
+      Distances are approximate and measured from Hancock Shaker Village &mdash; worth double-checking against your own map app, especially if you're coming from the airport. Prices shift by season and day of week, so treat the numbers here as a ballpark.
+    </p>
+
+  </div>
+</div>
+
+</body>
+</html>
