@@ -56,13 +56,9 @@ function Home() {
         <div className="scene-fade-bottom" />
 
         <div className="hero-content">
-          <p className="save">WE'RE GETTING MARRIED!</p>
+          <p className="save">MAY 29, 2027  &middot;  HANCOCK, MA</p>
           <h1 className="names"><Names /></h1>
           <div style={{ margin: '24px 0 18px' }}><Sep /></div>
-          <p className="meta">
-            {W.dayName}, {W.dateLong}
-            <span className="venue">{W.venue} &middot; Hancock, MA</span>
-          </p>
           <Countdown />
           <div style={{ display: 'flex', gap: 14, justifyContent: 'center', marginTop: 36, flexWrap: 'wrap' }}>
             <a className="btn btn-primary" href={W.rsvpUrl} target="_blank" rel="noopener noreferrer">RSVP</a>
@@ -74,11 +70,11 @@ function Home() {
       {/* ---- INTRO ---- */}
       <section className="section center">
         <div className="narrow reveal">
-          <p className="editorial-label">We're getting married</p>
+          <p className="editorial-label">May 28-30, 2027</p>
           <h2 className="section-title" style={{ marginTop: 18 }}>
-            Join us at a Shaker museum and working farm in Western MA.
+            We'd love to celebrate with you. 
           </h2>
-          <p className="lede" style={{ marginTop: 24 }}>Come for the wedding; stay for as much of the weekend as you'd like.</p>
+          <p className="lede" style={{ marginTop: 24 }}>Join us at Hancock Shaker Village - a museum and working farm in Western, MA.</p>
         </div>
       </section>
 
@@ -94,7 +90,7 @@ function Home() {
             <div className="reveal d1"><FeatureCard
                 icon="map" kicker="Travel & stay"
                 title="Plan ahead"
-                body="Albany airport and train station are nearest, but cars are still needed for last-mile arrival. Here's how to get here, where to stay, and what to do nearby."
+                body="Albany airport and Pittsfield train station are nearest, but cars are still needed for last-mile arrival. How to get here, where to stay, and what to do nearby."
                 href="travel-and-stay.html" cta="Plan your trip" /></div>
             <div className="reveal d2"><FeatureCard
                 icon="trees" kicker="The venue"
