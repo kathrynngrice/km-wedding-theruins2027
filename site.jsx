@@ -16,10 +16,8 @@ const W = {
   venue: 'Hancock Shaker Village',
   addr: '34 Lebanon Mountain Rd., Hancock, MA 01237',
   mapUrl: 'https://www.google.com/maps/search/?api=1&query=34+Lebanon+Mountain+Rd,+Hancock,+MA+01237',
-  rsvpUrl: '#rsvp-form-url', // ← replace with your Google Form / RSVP link
-  staysUrl: 'https://drive.google.com/file/d/1shM3svGAIcuRZ0cHwwzZ8ykqE_p9mcRV/view',
-  aboutVenueUrl: 'https://hancockshakervillage.org',
-  contactEmail: 'hello@kathrynandmatt.example'
+  rsvpUrl: 'https://docs.google.com/forms/d/e/1FAIpQLScXFfib3jijlUG3Z3b3UL3vjzASCxjfCH70s2ehpKlvloE0oA/viewform?usp=header',
+  aboutVenueUrl: 'https://hancockshakervillage.org'
 };
 
 /* ---- style: locked to the Lantern look for the published site ---------- */
