@@ -69,7 +69,7 @@ function Travel() {
             <h2 className="section-title" style={{ marginTop: 14 }}>By car, air, train, or bus</h2>
           </div>
           <div>
-            <InfoRow icon="car-front" title="By car — recommended">
+            <InfoRow icon="car-front" title="By car - recommended">
               The easiest way in. Rent a car or carpool with other guests where you can; parking at the
               venue is straightforward. Tap <a className="tlink" style={{ borderBottom: 'none', padding: 0 }} href={W.directionsUrl} target="_blank" rel="noopener noreferrer">Get directions</a> above for live routing to the address.
             </InfoRow>
@@ -79,12 +79,12 @@ function Travel() {
             </InfoRow>
             <InfoRow icon="train-front" title="By train — Pittsfield, MA" dist="~15 min drive to venue">
               The nearest train station, roughly fifteen minutes out. You'll still need a car or a ride
-              from the station — there's no direct transit to the area, and nonexistent taxi/ridesharing. 
+              from the station — there's no direct transit to the area, and minimal taxi/ridesharing. 
               Alternatively, the Albany, NY train station is about 40min out by car.
             </InfoRow>
             <InfoRow icon="bus" title="By bus">
               The closest stop is Pittsfield, MA, ~10min drive to venue, or Albany, NY (Peter Pan, Greyhound, Megabus), about 40min from venue. From there,
-              plan to rent a car or carpool the rest of the way.
+              plan to rent a car or carpool the rest of the way due to minimal taxi/ridesharing.
             </InfoRow>
           </div>
         </div>
@@ -153,8 +153,7 @@ function Travel() {
       <DuskFooter>
         <h2>We hope to see you there.</h2>
         <div style={{ display: 'flex', gap: 14, justifyContent: 'center', marginTop: 32, flexWrap: 'wrap' }}>
-          <a className="btn btn-on-deep" href={'mailto:' + W.contactEmail}>Get in touch</a>
-          <a className="btn btn-ghost-deep" href={W.rsvpUrl} target="_blank" rel="noopener noreferrer">RSVP</a>
+          <a className="btn btn-on-deep" href={W.rsvpUrl} target="_blank" rel="noopener noreferrer">RSVP</a>
         </div>
       </DuskFooter>
     </React.Fragment>
