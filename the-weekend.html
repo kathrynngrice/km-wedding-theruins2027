@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Schedule — K &amp; M</title>
+<title>Schedule — K&amp;M</title>
 <link rel="stylesheet" href="colors_and_type.css" />
 <link rel="stylesheet" href="site.css" />
 <link rel="icon" href="../favicon.svg" type="image/svg+xml">
@@ -31,7 +31,7 @@ const SCHEDULE = [
   { day: 'Saturday evening', title: 'Reception dinner', optional: false,
     desc: 'Dinner, cake, and dancing once the sun drops behind the ridge.' },
   { day: 'Sunday', title: 'Send-off brunch and/or goat yoga', optional: true,
-    desc: '10am goat yoga for those feeling brave, and a low-key brunch before you point yourself home.' },
+    desc: '10am goat yoga for those feeling brave, and after a low-key brunch before you point yourself home.' },
 ];
 
 function ScheduleItem({ item }) {
@@ -58,26 +58,24 @@ function TheDay() {
 
       <PageHead
         eyebrow="The weekend"
-        title="What we know now"
-        lede={"More of a long weekend than a single day.\nHere's the shape of the schedule so you can plan."} />
+        title="What we're planning"
+        lede={"Specifics to come. \nHere's the shape of the schedule so you can plan."} />
 
       {/* ---- INTRO PHOTO ---- */}
       {/* ---- SCHEDULE ---- */}
       <section className="section" style={{ paddingTop: 'clamp(40px,6vw,76px)' }}>
         <div className="narrow">
           <div className="reveal" style={{ marginBottom: 40 }}>
-            <p className="editorial-label">Specifics to come</p>
-            <h2 className="section-title" style={{ marginTop: 14 }}>Pick and choose</h2>
+            <h2 className="section-title" style={{ marginTop: 14 }}>The broad strokes</h2>
             <p className="lede" style={{ marginTop: 18 }}>
-              Every event is come-as-you-can. We'd of course love everyone at the wedding and
-              reception on Saturday — the rest of the weekend is yours to craft.
+              Every event is come-as-you-can. We'd love to see you.
             </p>
           </div>
           <div className="timeline">
             {SCHEDULE.map((item) => <ScheduleItem key={item.title} item={item} />)}
           </div>
           <p className="caption reveal" style={{ marginTop: 28, fontStyle: 'italic' }}>
-            Times and finer details to come soon.
+            Times and finer details coming soon.
           </p>
         </div>
       </section>
@@ -97,7 +95,7 @@ function TheDay() {
               </p>
               <div style={{ display: 'flex', gap: 22, marginTop: 28, flexWrap: 'wrap' }}>
                 <a className="tlink" href={W.aboutVenueUrl} target="_blank" rel="noopener noreferrer">About the venue →</a>
-                <a className="tlink" href={W.mapUrl} target="_blank" rel="noopener noreferrer">See it on the map →</a>
+                <a className="tlink" href={W.mapUrl} target="_blank" rel="noopener noreferrer">See it on a map →</a>
               </div>
             </div>
             <div className="reveal d1" style={{ display: 'flex', justifyContent: 'center' }}>
